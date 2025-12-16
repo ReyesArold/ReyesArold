@@ -199,14 +199,14 @@ None
 </h2>
 <br>
 <div align="center">
-  <a href="YOUR_FACEBOOK_LINK" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="https://www.facebook.com/reyes.arold.92" />
+  <a href="https://www.facebook.com/reyes.arold.92" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="YOUR_TIKTOK_LINK" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="https://www.tiktok.com/@dloraseyer02?lang=en" />
+  <a href="https://www.tiktok.com/@dloraseyer02?lang=en" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="Tiktok" />
   </a>
-  <a href="YOUR_YOUTUBE_LINK" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="https://www.youtube.com/@s4db0igaming76" />
+  <a href="https://www.youtube.com/@s4db0igaming76" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube" />
   </a>
 </div>
 <br>
