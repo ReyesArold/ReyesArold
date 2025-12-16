@@ -103,6 +103,35 @@ const arold = {
 
 <br>
 
+<br>
+<h2 align="center">
+  🎨 Design & Creative Tools
+</h2>
+<br>
+<div align="center">
+<table>
+<tr>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=ps" width="55" height="55" alt="Photoshop" />
+<br>Photoshop
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=ae" width="55" height="55" alt="After Effects" />
+<br>After Effects
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=ai" width="55" height="55" alt="Illustrator" />
+<br>Illustrator
+</td>
+<td align="center" width="100">
+<img src="https://img.shields.io/badge/CapCut-000000?style=flat&logoColor=white&logo=capcut&labelColor=2C7BE5&color=2C7BE5" width="55" height="55" alt="CapCut" />
+<br>CapCut
+</td>
+</tr>
+</table>
+</div>
+<br>
+
 ---
 
 <h2 align="center">
