@@ -257,29 +257,4 @@ None
   
 </div>
 
-
-<div style="
-    border: 1px solid #30363d;
-    border-radius: 6px;
-    padding: 16px;
-    background-color: #0d1117; 
-    margin-top: 20px;
-">
-    <h3 style="color: #c9d1d9; font-size: 1.25em; margin-top: 0; display: flex; align-items: center;">
-        <span style="color: #6e7681; margin-right: 8px;">*️⃣</span> Recent Triumphs
-    </h3>
-    <div style="border-bottom: 1px solid #21262d; padding-bottom: 8px; margin-bottom: 8px; display: flex; justify-content: space-between; align-items: center;">
-        <p style="margin: 0; color: #c9d1d9;">
-            <span style="color: #2ea043; margin-right: 8px;">✅</span> Earned the Arctic Code Vault Contributor badge
-        </p>
-        <span style="color: #6e7681; font-size: 0.85em;">Dec 20</span>
-    </div>
-    <div style="display: flex; justify-content: space-between; align-items: center;">
-        <p style="margin: 0; color: #c9d1d9;">
-            <span style="color: #2ea043; margin-right: 8px;">✅</span> Completed the "GitHub Skills: JavaScript" courses
-        </p>
-        <span style="color: #6e7681; font-size: 0.85em;">Dec 20</span>
-    </div>
-    </div>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
